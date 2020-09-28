@@ -7,7 +7,7 @@
 </head>
 <body>
 <h1>
-	경 
+	경호의 기술블로그
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
